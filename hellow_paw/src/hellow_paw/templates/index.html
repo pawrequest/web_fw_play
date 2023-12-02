@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://unpkg.com/htmx.org@1.9.9" integrity="sha384-QFjmbokDn2DjBjq+fM+8LUIVrAgqcNW2s0PjAxHETgRn9l4fvX31ZxDxvwQnyMOX" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <title>Hello World</title>
+</head>
+<body class="m-4">
+    <h1 class="text-2xl font-bold mb-4">Hello World!</h1>
+    <button hx-post="/log" hx-trigger="click">Log Me</button>
+    <button hx-get="/userinfo" hx-trigger="click" hx-target="#userInfo" hx-swap="outerHTML">Show My Info</button>
+    <div id="userInfo" class="mt-4"></div>
+    <div id="logList" class="mt-4"></div>
+</body>
+</html>
+
+
+
+
+{#<!DOCTYPE html>#}
+{#<html>#}
+{#<head>#}
+{#    <script src="https://unpkg.com/htmx.org@1.9.9" integrity="sha384-QFjmbokDn2DjBjq+fM+8LUIVrAgqcNW2s0PjAxHETgRn9l4fvX31ZxDxvwQnyMOX" crossorigin="anonymous"></script>#}
+{#    <title>Hello World</title>#}
+{#</head>#}
+{#<body>#}
+{#    <h1>Hello World!</h1>#}
+{#    <button hx-post="/log" hx-trigger="click">Log Me</button>#}
+{#    <button hx-get="/logs" hx-trigger="click" hx-target="#logList" hx-swap="innerHTML">Show Logs</button>#}
+{#    <div id="logList"></div>#}
+{##}
+{#</body>#}
+{#</html>#}
+
+
+{#    <button id="logBtn">Log Me</button>#}
+{#    <script>#}
+{#        document.getElementById('logBtn').onclick = function() {#}
+{#            fetch('/log', { method: 'POST' });#}
+{#        };#}
+{#    </script>#}

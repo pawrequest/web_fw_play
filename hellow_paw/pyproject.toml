@@ -1,0 +1,23 @@
+[project]
+name = "hellow-paw"
+version = "0.1.0"
+description = "Add your description here"
+authors = [
+    { name = "prosodyspeaks", email = "prosodyspeaks@gmail.com" }
+]
+dependencies = [
+    "flask>=3.0.0",
+]
+readme = "README.md"
+requires-python = ">= 3.8"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.rye]
+managed = true
+dev-dependencies = []
+
+[tool.hatch.metadata]
+allow-direct-references = true
