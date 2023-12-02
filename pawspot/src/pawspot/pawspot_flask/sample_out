@@ -1,0 +1,1486 @@
+tracjklist_v1 = [{
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Alive At The End Of The World : Set Two',
+                     'album_id': '31cMNkGXPCaYDdwrz4EnHn', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Madness (Live)',
+                     'track_id': '73eTIVXXj36A1YX6gW7zuO', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/73eTIVXXj36A1YX6gW7zuO'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Alive At The End Of The World : Set Two',
+                     'album_id': '31cMNkGXPCaYDdwrz4EnHn', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'My Mama (Live)',
+                     'track_id': '59yhDEQoUOwywciNf8n4ho', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/59yhDEQoUOwywciNf8n4ho'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Alive At The End Of The World : Set Two',
+                     'album_id': '31cMNkGXPCaYDdwrz4EnHn', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Scream (Interlude)',
+                     'track_id': '5fhiCDE9BgAmR9Ko2uygan', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/5fhiCDE9BgAmR9Ko2uygan'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Alive At The End Of The World : Set Two',
+                     'album_id': '31cMNkGXPCaYDdwrz4EnHn', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Oi Oi (Live)',
+                     'track_id': '5IcMujdCfpdSRWRVz3aArR', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/5IcMujdCfpdSRWRVz3aArR'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Alive At The End Of The World : Set Two',
+                     'album_id': '31cMNkGXPCaYDdwrz4EnHn', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'Sacred Sperms (Interlude)', 'track_id': '1qARJMxXX55POq7ysbnXTL',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/1qARJMxXX55POq7ysbnXTL'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Alive At The End Of The World : Set Two',
+                     'album_id': '31cMNkGXPCaYDdwrz4EnHn', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': "I'm A Wave Part ii (Live)", 'track_id': '4u8OV8ewt5HyxtRr8gTbGe',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/4u8OV8ewt5HyxtRr8gTbGe'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Alive At The End Of The World : Set Two',
+                     'album_id': '31cMNkGXPCaYDdwrz4EnHn', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'The Kid Acapella (Live)', 'track_id': '0UcjnRvCRFycMsb4no1LHf',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/0UcjnRvCRFycMsb4no1LHf'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Alive At The End Of The World : Set Two',
+                     'album_id': '31cMNkGXPCaYDdwrz4EnHn', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Ketamine Honey (Live)',
+                     'track_id': '2gzJD1IEoCuferyuaCrPod', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/2gzJD1IEoCuferyuaCrPod'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Alive At The End Of The World : Set Two',
+                     'album_id': '31cMNkGXPCaYDdwrz4EnHn', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'We Are Of Nature (Interlude)', 'track_id': '7JcKXB8SFb4tC4PwC1rX50',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/7JcKXB8SFb4tC4PwC1rX50'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Alive At The End Of The World : Set Two',
+                     'album_id': '31cMNkGXPCaYDdwrz4EnHn', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Show Some Love (Live)',
+                     'track_id': '773jd7HsjPxAoy5EATFpuC', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/773jd7HsjPxAoy5EATFpuC'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Alive At The End Of The World : Set Two',
+                     'album_id': '31cMNkGXPCaYDdwrz4EnHn', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'I Freak Out (Live)',
+                     'track_id': '0bXeu5HPEcFTzUNqDpcuyj', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/0bXeu5HPEcFTzUNqDpcuyj'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Alive At The End Of The World : Set Two',
+                     'album_id': '31cMNkGXPCaYDdwrz4EnHn', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Reach Out (Live)',
+                     'track_id': '7i1kRSNJDnIG3cDOKbhcL2', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/7i1kRSNJDnIG3cDOKbhcL2'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Alive At The End Of The World : Set One',
+                     'album_id': '04Fb6z0RoZGYDhEwBgHaj3', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Intro',
+                     'track_id': '7rDePaeT2lkLwDLesyLp2x', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/7rDePaeT2lkLwDLesyLp2x'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Alive At The End Of The World : Set One',
+                     'album_id': '04Fb6z0RoZGYDhEwBgHaj3', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Any Day Now (Live)',
+                     'track_id': '4Ruqx8ow0LdpDRxlxAuNET', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/4Ruqx8ow0LdpDRxlxAuNET'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Alive At The End Of The World : Set One',
+                     'album_id': '04Fb6z0RoZGYDhEwBgHaj3', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Maria (Live)',
+                     'track_id': '65vsE0dHF1ygQhdlvDwbnG', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/65vsE0dHF1ygQhdlvDwbnG'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Alive At The End Of The World : Set One',
+                     'album_id': '04Fb6z0RoZGYDhEwBgHaj3', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'The Howl That Runs Through Everything (Interlude)',
+                     'track_id': '0QwcCJXUwncszNMVJYJaKE', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/0QwcCJXUwncszNMVJYJaKE'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Alive At The End Of The World : Set One',
+                     'album_id': '04Fb6z0RoZGYDhEwBgHaj3', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Eat My Camera (Live)',
+                     'track_id': '6vW6nmUcQdJyqEvHvbidC7', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/6vW6nmUcQdJyqEvHvbidC7'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Alive At The End Of The World : Set One',
+                     'album_id': '04Fb6z0RoZGYDhEwBgHaj3', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Morning Light (Live)',
+                     'track_id': '6xlrj3EBfXwUJFwDpCbo7j', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/6xlrj3EBfXwUJFwDpCbo7j'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Alive At The End Of The World : Set One',
+                     'album_id': '04Fb6z0RoZGYDhEwBgHaj3', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'The Little Things Acapella (Live)',
+                     'track_id': '7dCUR6p24pyxFPMPjIPuYR', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/7dCUR6p24pyxFPMPjIPuYR'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Alive At The End Of The World : Set One',
+                     'album_id': '04Fb6z0RoZGYDhEwBgHaj3', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'I Love The Sea (Live)',
+                     'track_id': '4khhJKoqdNyCDJN2CJ7pAi', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/4khhJKoqdNyCDJN2CJ7pAi'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Alive At The End Of The World : Set One',
+                     'album_id': '04Fb6z0RoZGYDhEwBgHaj3', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Take Me Dancing (Live)',
+                     'track_id': '7AuCtpHmxnYzaY8kV23KiP', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/7AuCtpHmxnYzaY8kV23KiP'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'The Unmaster (Remixes & Versions)',
+                     'album_id': '2lSQttGXXvsAenXcDjgO8A', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'Ketamine Honey - Danalogue Remix',
+                     'track_id': '0TBtcQlrW6qRsr9wIlNRZl', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/0TBtcQlrW6qRsr9wIlNRZl'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'The Unmaster (Remixes & Versions)',
+                     'album_id': '2lSQttGXXvsAenXcDjgO8A', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': "i'm a wave (original wave)", 'track_id': '7gxMrTqC6eZoAmnHkiDyBE',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/7gxMrTqC6eZoAmnHkiDyBE'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'The Unmaster (Remixes & Versions)',
+                     'album_id': '2lSQttGXXvsAenXcDjgO8A', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': "I Freak Out - Everything's Fine Remix",
+                     'track_id': '584jteT2zaux0TisBeGT6t', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/584jteT2zaux0TisBeGT6t'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'The Unmaster (Remixes & Versions)',
+                     'album_id': '2lSQttGXXvsAenXcDjgO8A', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'alright tornado brain',
+                     'track_id': '7frn8IhcyzsCHVC1Cq7FXi', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/7frn8IhcyzsCHVC1Cq7FXi'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'The Unmaster (Remixes & Versions)',
+                     'album_id': '2lSQttGXXvsAenXcDjgO8A', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'The Infinite Mix - Tom Excell Remix',
+                     'track_id': '06LBpIuT0A59ykfD0aAEKU', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/06LBpIuT0A59ykfD0aAEKU'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'The Unmaster (Remixes & Versions)',
+                     'album_id': '2lSQttGXXvsAenXcDjgO8A', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'My Mama - Afriquoi Remix', 'track_id': '49IrUHeXzOQnrBNYnnMaX4',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/49IrUHeXzOQnrBNYnnMaX4'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'The Unmaster (Remixes & Versions)',
+                     'album_id': '2lSQttGXXvsAenXcDjgO8A', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'I Freak Out - SMBD Brukxit Remix',
+                     'track_id': '1L50W29ZwMMQ9sdbWsnNdS', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/1L50W29ZwMMQ9sdbWsnNdS'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'The Unmaster (Remixes & Versions)',
+                     'album_id': '2lSQttGXXvsAenXcDjgO8A', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'Ketamine Honey - Spoek Mathambo Remix',
+                     'track_id': '1GB8JYEV7PvKVaDgjIbdxx', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/1GB8JYEV7PvKVaDgjIbdxx'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'The Unmaster (Remixes & Versions)',
+                     'album_id': '2lSQttGXXvsAenXcDjgO8A', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'ah that green lanes kebabby bot',
+                     'track_id': '37tkvz2pWzjAOICCh3P3Ls', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/37tkvz2pWzjAOICCh3P3Ls'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'The Unmaster (Remixes & Versions)',
+                     'album_id': '2lSQttGXXvsAenXcDjgO8A', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'I Freak Out - SMBD Brukxit Dub',
+                     'track_id': '1y0qKU5weP6vH6Nd21aid9', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/1y0qKU5weP6vH6Nd21aid9'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'The Unmaster (Remixes & Versions)',
+                     'album_id': '2lSQttGXXvsAenXcDjgO8A', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'rilly popping off',
+                     'track_id': '6jEs0xwoqxEtByBlOgn4Ej', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/6jEs0xwoqxEtByBlOgn4Ej'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'The Unmaster (Remixes & Versions)',
+                     'album_id': '2lSQttGXXvsAenXcDjgO8A', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'Show Some Love - Chestnutt of Snapped Ankles Remix',
+                     'track_id': '273woa4mmh32KGVvAW1P4X', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/273woa4mmh32KGVvAW1P4X'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'The Unmaster (Remixes & Versions)',
+                     'album_id': '2lSQttGXXvsAenXcDjgO8A', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'After She Gave Me The Sea - Warm Sea Dub',
+                     'track_id': '1SOPUkR1Wl70iGo8tY5gZg', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/1SOPUkR1Wl70iGo8tY5gZg'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'The Unmaster',
+                     'album_id': '29XlMhn6ToMJ4Xi3tKG5Sr', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': "I'm a Wave (Part One)",
+                     'track_id': '6IMb3HolcXlSgXUhCbXXIl', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/6IMb3HolcXlSgXUhCbXXIl'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'The Unmaster',
+                     'album_id': '29XlMhn6ToMJ4Xi3tKG5Sr', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Madness',
+                     'track_id': '13xUdIiPFyQGIfFI0GcHHW', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/13xUdIiPFyQGIfFI0GcHHW'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'The Unmaster',
+                     'album_id': '29XlMhn6ToMJ4Xi3tKG5Sr', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'The World Tilts Sideways', 'track_id': '4bacEp7Yq7xehVwfj4GBoV',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/4bacEp7Yq7xehVwfj4GBoV'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'The Unmaster',
+                     'album_id': '29XlMhn6ToMJ4Xi3tKG5Sr', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Ketamine Honey',
+                     'track_id': '4eDe3v9xrJPMOx2dqbftmG', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/4eDe3v9xrJPMOx2dqbftmG'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'The Unmaster',
+                     'album_id': '29XlMhn6ToMJ4Xi3tKG5Sr', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Daylight Came',
+                     'track_id': '6GxHmMCpTGz3KFd6SAoDM9', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/6GxHmMCpTGz3KFd6SAoDM9'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'The Unmaster',
+                     'album_id': '29XlMhn6ToMJ4Xi3tKG5Sr', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Rising Son',
+                     'track_id': '5yEkJXcviuMGrgTW2uKi8B', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/5yEkJXcviuMGrgTW2uKi8B'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'The Unmaster',
+                     'album_id': '29XlMhn6ToMJ4Xi3tKG5Sr', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'My Mama',
+                     'track_id': '1Rz2km6IA13wF3lhw4H3Qd', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/1Rz2km6IA13wF3lhw4H3Qd'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'The Unmaster',
+                     'album_id': '29XlMhn6ToMJ4Xi3tKG5Sr', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'Fever (Timothy Is Everywhere)', 'track_id': '69HaEnecSpoRIHtNsOjpTi',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/69HaEnecSpoRIHtNsOjpTi'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'The Unmaster',
+                     'album_id': '29XlMhn6ToMJ4Xi3tKG5Sr', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'I Freak Out',
+                     'track_id': '1i5qfhTEWgjHHz5akbyN1W', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/1i5qfhTEWgjHHz5akbyN1W'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'The Unmaster',
+                     'album_id': '29XlMhn6ToMJ4Xi3tKG5Sr', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Two Slugs',
+                     'track_id': '5Ji6g2lGMoeYpqZvHHdyYc', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/5Ji6g2lGMoeYpqZvHHdyYc'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'The Unmaster',
+                     'album_id': '29XlMhn6ToMJ4Xi3tKG5Sr', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Oi Oi',
+                     'track_id': '2cGl5SbUjs6UrrhjJsDmX6', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/2cGl5SbUjs6UrrhjJsDmX6'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'The Unmaster',
+                     'album_id': '29XlMhn6ToMJ4Xi3tKG5Sr', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Daylight Came II',
+                     'track_id': '6ydmbTwvXFYBIu9W56ost1', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/6ydmbTwvXFYBIu9W56ost1'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'The Unmaster',
+                     'album_id': '29XlMhn6ToMJ4Xi3tKG5Sr', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Shift up Fatih',
+                     'track_id': '5xkOzSuzoEabGKqTgJsZ2s', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/5xkOzSuzoEabGKqTgJsZ2s'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'The Unmaster',
+                     'album_id': '29XlMhn6ToMJ4Xi3tKG5Sr', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'Creatures in the Ceiling', 'track_id': '1H6HAaVoYlWr34ubRzw9Re',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/1H6HAaVoYlWr34ubRzw9Re'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'The Unmaster',
+                     'album_id': '29XlMhn6ToMJ4Xi3tKG5Sr', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Daylight Came III',
+                     'track_id': '1EcQB7jnANt89EcDeagSYW', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/1EcQB7jnANt89EcDeagSYW'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'The Unmaster',
+                     'album_id': '29XlMhn6ToMJ4Xi3tKG5Sr', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'I the Unmaster',
+                     'track_id': '5LNomQgEKLOQNmzD8ogkoa', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/5LNomQgEKLOQNmzD8ogkoa'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'The Unmaster',
+                     'album_id': '29XlMhn6ToMJ4Xi3tKG5Sr', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': "Everybody Here's Golden", 'track_id': '3IgfybGzWhk8FN7h7qkpKc',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/3IgfybGzWhk8FN7h7qkpKc'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'The Unmaster',
+                     'album_id': '29XlMhn6ToMJ4Xi3tKG5Sr', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Show Some Love',
+                     'track_id': '5XGECbUKgJ66l8LCZrZKJi', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/5XGECbUKgJ66l8LCZrZKJi'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'The Unmaster',
+                     'album_id': '29XlMhn6ToMJ4Xi3tKG5Sr', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': "I'm a Wave (Part Two)",
+                     'track_id': '5tq2OYbtOjqfE4rgxP4clp', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/5tq2OYbtOjqfE4rgxP4clp'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'The Unmaster',
+                     'album_id': '29XlMhn6ToMJ4Xi3tKG5Sr', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'After She Gave Me the Sea', 'track_id': '4Yz8ONFZ7nT1MNfv4KDKNI',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/4Yz8ONFZ7nT1MNfv4KDKNI'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'The Unmaster',
+                     'album_id': '29XlMhn6ToMJ4Xi3tKG5Sr', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'The Infinite Mix',
+                     'track_id': '6iyS6CM8jGJ6YnmN5lW5IG', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/6iyS6CM8jGJ6YnmN5lW5IG'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'the Small Gods',
+                     'album_artist_id': '33lBy6lbQIoVnGAOWtUG7f', 'album': 'Moving in the Dark',
+                     'album_id': '4QEo7iAk7CxHowMsOeJG7Z', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Odd Creature',
+                     'track_id': '7xPCwygW6MdNWsJFG4usMt', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/7xPCwygW6MdNWsJFG4usMt'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'the Small Gods',
+                     'album_artist_id': '33lBy6lbQIoVnGAOWtUG7f', 'album': 'Moving in the Dark',
+                     'album_id': '4QEo7iAk7CxHowMsOeJG7Z', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'We Had A Song',
+                     'track_id': '6YTvii42uumIpbNr5rj1Ws', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/6YTvii42uumIpbNr5rj1Ws'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'the Small Gods',
+                     'album_artist_id': '33lBy6lbQIoVnGAOWtUG7f', 'album': 'Moving in the Dark',
+                     'album_id': '4QEo7iAk7CxHowMsOeJG7Z', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'There Was A Rapper',
+                     'track_id': '1te6FwjFS675J8zbo59rlD', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/1te6FwjFS675J8zbo59rlD'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'the Small Gods',
+                     'album_artist_id': '33lBy6lbQIoVnGAOWtUG7f', 'album': 'Moving in the Dark',
+                     'album_id': '4QEo7iAk7CxHowMsOeJG7Z', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Moving in the Dark',
+                     'track_id': '0IGJZpimYVt7w3c9DvC5SG', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/0IGJZpimYVt7w3c9DvC5SG'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'the Small Gods',
+                     'album_artist_id': '33lBy6lbQIoVnGAOWtUG7f', 'album': 'Moving in the Dark',
+                     'album_id': '4QEo7iAk7CxHowMsOeJG7Z', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Strong Bright',
+                     'track_id': '6PhqcWOTf7UsLVUTgxITnj', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/6PhqcWOTf7UsLVUTgxITnj'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'the Small Gods',
+                     'album_artist_id': '33lBy6lbQIoVnGAOWtUG7f', 'album': 'Moving in the Dark',
+                     'album_id': '4QEo7iAk7CxHowMsOeJG7Z', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'The Istanbul Express',
+                     'track_id': '6vWxls3HvlOf5NLW6ZyZFg', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/6vWxls3HvlOf5NLW6ZyZFg'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'the Small Gods',
+                     'album_artist_id': '33lBy6lbQIoVnGAOWtUG7f', 'album': 'Moving in the Dark',
+                     'album_id': '4QEo7iAk7CxHowMsOeJG7Z', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Never Mind',
+                     'track_id': '268ooHpTi0QE8MBtfHWVqi', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/268ooHpTi0QE8MBtfHWVqi'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'the Small Gods',
+                     'album_artist_id': '33lBy6lbQIoVnGAOWtUG7f', 'album': 'Moving in the Dark',
+                     'album_id': '4QEo7iAk7CxHowMsOeJG7Z', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Sailor',
+                     'track_id': '6LhSrsamD1XAJYeFfbb5Qv', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/6LhSrsamD1XAJYeFfbb5Qv'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'the Small Gods',
+                     'album_artist_id': '33lBy6lbQIoVnGAOWtUG7f', 'album': 'Moving in the Dark',
+                     'album_id': '4QEo7iAk7CxHowMsOeJG7Z', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'White Rum',
+                     'track_id': '1DLpALmAM7NJGBJXJxnwyl', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/1DLpALmAM7NJGBJXJxnwyl'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'the Small Gods',
+                     'album_artist_id': '33lBy6lbQIoVnGAOWtUG7f', 'album': 'Moving in the Dark',
+                     'album_id': '4QEo7iAk7CxHowMsOeJG7Z', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Pure and Simple',
+                     'track_id': '6xxCinraC5D2HhWattvmig', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/6xxCinraC5D2HhWattvmig'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'the Small Gods',
+                     'album_artist_id': '33lBy6lbQIoVnGAOWtUG7f', 'album': 'Moving in the Dark',
+                     'album_id': '4QEo7iAk7CxHowMsOeJG7Z', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Million Miles',
+                     'track_id': '2PukzqWqfYgBASm1oMp3pN', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/2PukzqWqfYgBASm1oMp3pN'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'the Small Gods',
+                     'album_artist_id': '33lBy6lbQIoVnGAOWtUG7f', 'album': 'Moving in the Dark',
+                     'album_id': '4QEo7iAk7CxHowMsOeJG7Z', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'There Is A Way',
+                     'track_id': '67k4hCW7E1s9YH8OFLIFVy', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/67k4hCW7E1s9YH8OFLIFVy'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'the Small Gods',
+                     'album_artist_id': '33lBy6lbQIoVnGAOWtUG7f', 'album': 'Moving in the Dark',
+                     'album_id': '4QEo7iAk7CxHowMsOeJG7Z', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'A Trick of the Moon',
+                     'track_id': '414cKXzESYGXhKPprwXtEo', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/414cKXzESYGXhKPprwXtEo'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'the Small Gods',
+                     'album_artist_id': '33lBy6lbQIoVnGAOWtUG7f', 'album': 'Moving in the Dark',
+                     'album_id': '4QEo7iAk7CxHowMsOeJG7Z', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'The Little Things',
+                     'track_id': '2dsDy5sS4QdbkmXM3MtcsN', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/2dsDy5sS4QdbkmXM3MtcsN'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'the Small Gods',
+                     'album_artist_id': '33lBy6lbQIoVnGAOWtUG7f', 'album': 'Moving in the Dark',
+                     'album_id': '4QEo7iAk7CxHowMsOeJG7Z', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'The End of the World',
+                     'track_id': '1MnG2Xp2jLyZAh1Ro2L3Df', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/1MnG2Xp2jLyZAh1Ro2L3Df'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'White Man (Moves)',
+                     'album_id': '3USW3TXMMnIyHjF8I2qXrY', 'track_artist': 'Dizraeli & Tom Caruana',
+                     'track_artist_id': '4sBnfhqLvCqMwK5WJqc6XO', 'title': 'Azim',
+                     'track_id': '1LC039s4zrhkXPTWSguVFR', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/1LC039s4zrhkXPTWSguVFR'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'White Man (Moves)',
+                     'album_id': '3USW3TXMMnIyHjF8I2qXrY', 'track_artist': 'Dizraeli & Tom Caruana',
+                     'track_artist_id': '4sBnfhqLvCqMwK5WJqc6XO',
+                     'title': 'What River Is This? (feat. DJ Downlow)',
+                     'track_id': '6XyHClkLGl3RuymKQvSwgl', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/6XyHClkLGl3RuymKQvSwgl'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'White Man (Moves)',
+                     'album_id': '3USW3TXMMnIyHjF8I2qXrY', 'track_artist': 'Dizraeli & Tom Caruana',
+                     'track_artist_id': '4sBnfhqLvCqMwK5WJqc6XO', 'title': 'People Taking Pictures',
+                     'track_id': '6cHHmHK3sUrMW0NP2ePu2H', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/6cHHmHK3sUrMW0NP2ePu2H'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'White Man (Moves)',
+                     'album_id': '3USW3TXMMnIyHjF8I2qXrY', 'track_artist': 'Dizraeli & Tom Caruana',
+                     'track_artist_id': '4sBnfhqLvCqMwK5WJqc6XO',
+                     'title': 'Beautiful People (feat. Cate Ferris)',
+                     'track_id': '1iFQxFZSmdwXdLyfGP8mm3', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/1iFQxFZSmdwXdLyfGP8mm3'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'White Man (Moves)',
+                     'album_id': '3USW3TXMMnIyHjF8I2qXrY', 'track_artist': 'Dizraeli & Tom Caruana',
+                     'track_artist_id': '4sBnfhqLvCqMwK5WJqc6XO', 'title': 'Lose Yourself',
+                     'track_id': '38vlvvq4CisimY7xtgSM0z', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/38vlvvq4CisimY7xtgSM0z'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'White Man (Moves)',
+                     'album_id': '3USW3TXMMnIyHjF8I2qXrY', 'track_artist': 'Dizraeli & Tom Caruana',
+                     'track_artist_id': '4sBnfhqLvCqMwK5WJqc6XO',
+                     'title': 'Fatima (feat. Cate Ferris)', 'track_id': '6zrRbXpzWCKeYoIaGQKXTI',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/6zrRbXpzWCKeYoIaGQKXTI'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'White Man (Moves)',
+                     'album_id': '3USW3TXMMnIyHjF8I2qXrY', 'track_artist': 'Dizraeli & Tom Caruana',
+                     'track_artist_id': '4sBnfhqLvCqMwK5WJqc6XO',
+                     'title': 'Picking Through the Pebbles', 'track_id': '36q6IghqnNhpR9VpK9f0XU',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/36q6IghqnNhpR9VpK9f0XU'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'White Man (Moves)',
+                     'album_id': '3USW3TXMMnIyHjF8I2qXrY', 'track_artist': 'Dizraeli & Tom Caruana',
+                     'track_artist_id': '4sBnfhqLvCqMwK5WJqc6XO', 'title': 'Forwards',
+                     'track_id': '6XYEE0W0qgwMGBsintFjLU', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/6XYEE0W0qgwMGBsintFjLU'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'White Man (Moves)',
+                     'album_id': '3USW3TXMMnIyHjF8I2qXrY', 'track_artist': 'Dizraeli & Tom Caruana',
+                     'track_artist_id': '4sBnfhqLvCqMwK5WJqc6XO',
+                     'title': 'White Stones (feat. Cate Ferris)',
+                     'track_id': '3a1rljMXnTsTLp6xuzguHw', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/3a1rljMXnTsTLp6xuzguHw'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'White Man (Moves)',
+                     'album_id': '3USW3TXMMnIyHjF8I2qXrY', 'track_artist': 'Dizraeli & Tom Caruana',
+                     'track_artist_id': '4sBnfhqLvCqMwK5WJqc6XO',
+                     'title': 'The Journey Home (feat. Cate Ferris & DJ Downlow)',
+                     'track_id': '5202gUzcSN5KZ7Punmjstv', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/5202gUzcSN5KZ7Punmjstv'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Engurland (City Shanties)', 'album_id': '5B6C4BqxgnfduoQ4D2Euhz',
+                     'track_artist': 'Dizraeli', 'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'Homeward Bound (On The Overground)',
+                     'track_id': '5VdCn6dTohN6bqccNA17zk', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/5VdCn6dTohN6bqccNA17zk'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Engurland (City Shanties)', 'album_id': '5B6C4BqxgnfduoQ4D2Euhz',
+                     'track_artist': 'Dizraeli', 'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'To The Garden', 'track_id': '4vu3XnVYbh2ZaDJHKYqKx5',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/4vu3XnVYbh2ZaDJHKYqKx5'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Engurland (City Shanties)', 'album_id': '5B6C4BqxgnfduoQ4D2Euhz',
+                     'track_artist': 'Dizraeli', 'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'Engurland', 'track_id': '7hGZ46AInnMle5LlicPVSx',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/7hGZ46AInnMle5LlicPVSx'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Engurland (City Shanties)', 'album_id': '5B6C4BqxgnfduoQ4D2Euhz',
+                     'track_artist': 'Dizraeli', 'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'Bomb Tesco', 'track_id': '7iGuIXLobBkQ301X9cdEbi',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/7iGuIXLobBkQ301X9cdEbi'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Engurland (City Shanties)', 'album_id': '5B6C4BqxgnfduoQ4D2Euhz',
+                     'track_artist': 'Dizraeli', 'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'Take Me Dancing', 'track_id': '3Mo4YkH8GhhVhndtVQxHVN',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/3Mo4YkH8GhhVhndtVQxHVN'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Engurland (City Shanties)', 'album_id': '5B6C4BqxgnfduoQ4D2Euhz',
+                     'track_artist': 'Dizraeli', 'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'Good God', 'track_id': '1s1FW95vxB1SdkN9WF0dOp',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/1s1FW95vxB1SdkN9WF0dOp'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Engurland (City Shanties)', 'album_id': '5B6C4BqxgnfduoQ4D2Euhz',
+                     'track_artist': 'Dizraeli', 'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'Pen Tangle', 'track_id': '3d1xre7M4QPKdz9SmSK4dk',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/3d1xre7M4QPKdz9SmSK4dk'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Engurland (City Shanties)', 'album_id': '5B6C4BqxgnfduoQ4D2Euhz',
+                     'track_artist': 'Dizraeli', 'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': "It Won't Be Long", 'track_id': '0EAPvDjnhn81B3rvjgivfD',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/0EAPvDjnhn81B3rvjgivfD'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Engurland (City Shanties)', 'album_id': '5B6C4BqxgnfduoQ4D2Euhz',
+                     'track_artist': 'Dizraeli', 'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'Reach In', 'track_id': '2WtHT3xdF4vfHrhrf6IcGG',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/2WtHT3xdF4vfHrhrf6IcGG'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Engurland (City Shanties)', 'album_id': '5B6C4BqxgnfduoQ4D2Euhz',
+                     'track_artist': 'Dizraeli', 'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'Reach Out', 'track_id': '2suzD8iIMVmXOUWXTMWqPP',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/2suzD8iIMVmXOUWXTMWqPP'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Engurland (City Shanties)', 'album_id': '5B6C4BqxgnfduoQ4D2Euhz',
+                     'track_artist': 'Dizraeli', 'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'Maria', 'track_id': '5SgeFCzLVuc0Yl6BThPN6H', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/5SgeFCzLVuc0Yl6BThPN6H'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': 'Engurland (City Shanties)', 'album_id': '5B6C4BqxgnfduoQ4D2Euhz',
+                     'track_artist': 'Dizraeli', 'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'I Love The Sea', 'track_id': '0aaAFeztNdqqD5rkMUS57v',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/0aaAFeztNdqqD5rkMUS57v'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'Morning Light (Live)',
+                     'album_id': '0JzX7SZN2SX6xfVdAtE7OE', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Morning Light - Live',
+                     'track_id': '26GaHkNblGB0bLk3ym154b', 'album_type': 'single',
+                     'spotify_track_url': 'https://open.spotify.com/track/26GaHkNblGB0bLk3ym154b'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'Take Me Dancing',
+                     'album_id': '3UAhnBaF0GRFCqmseomeXe', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Take Me Dancing - Live',
+                     'track_id': '7s9aXukRyHWMxqAy2HEafM', 'album_type': 'single',
+                     'spotify_track_url': 'https://open.spotify.com/track/7s9aXukRyHWMxqAy2HEafM'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'SMBD',
+                     'album_artist_id': '6xigqAyb1Q1hhYX7YDI4tw',
+                     'album': 'I Freak Out (Smbd Brukxit Dub)',
+                     'album_id': '2qLZTq89jEYv0miEpVh5ep', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'I Freak Out (Smbd Brukxit Dub)',
+                     'track_id': '1LvysoPlqUXcxJSrJHKn8R', 'album_type': 'single',
+                     'spotify_track_url': 'https://open.spotify.com/track/1LvysoPlqUXcxJSrJHKn8R'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Tom Excell',
+                     'album_artist_id': '7xWMYlmDVs3qZKLgJU7dKK',
+                     'album': 'The Infinite Mix (Tom Excell Remix)',
+                     'album_id': '3GQqAm3x4qioJKK8WQsz3u', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'The Infinite Mix - Tom Excell Remix',
+                     'track_id': '5PgaFgaWpxsOdIJy9CPRaQ', 'album_type': 'single',
+                     'spotify_track_url': 'https://open.spotify.com/track/5PgaFgaWpxsOdIJy9CPRaQ'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album_artist': 'Chestnutt of Snapped Ankles',
+                     'album_artist_id': '1snFKtpa7rnGPyygD7s57g',
+                     'album': 'Show Some Love (Chestnutt of Snapped Ankles Remix)',
+                     'album_id': '2WHFUENFZXmae369JGkglk', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'Show Some Love - Chestnutt of Snapped Ankles Remix',
+                     'track_id': '6Yeyn92aGDEE15Wy6hKLvB', 'album_type': 'single',
+                     'spotify_track_url': 'https://open.spotify.com/track/6Yeyn92aGDEE15Wy6hKLvB'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': "I Freak out (Everything's Fine Remix)",
+                     'album_id': '6KEMnGxpoPGXHaJbrjFcJg', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': "I Freak out (Everything's Fine Remix) [Short Trip Version]",
+                     'track_id': '2lVEcjUsxjsjyi770zCsGH', 'album_type': 'single',
+                     'spotify_track_url': 'https://open.spotify.com/track/2lVEcjUsxjsjyi770zCsGH'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'album': "I Freak out (Everything's Fine Remix)",
+                     'album_id': '6KEMnGxpoPGXHaJbrjFcJg', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': "I Freak out (Everything's Fine Remix) [Full Voyage Version]",
+                     'track_id': '0O9zKghF9i0zTbAyaGOYyT', 'album_type': 'single',
+                     'spotify_track_url': 'https://open.spotify.com/track/0O9zKghF9i0zTbAyaGOYyT'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'Ketamine Honey',
+                     'album_id': '1sRBICJUkzsF1cbaNP87F8', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Ketamine Honey',
+                     'track_id': '4GXQmM8Y25X6JbD0elkv2Q', 'album_type': 'single',
+                     'spotify_track_url': 'https://open.spotify.com/track/4GXQmM8Y25X6JbD0elkv2Q'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'Ketamine Honey',
+                     'album_id': '1sRBICJUkzsF1cbaNP87F8', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'Ketamine Honey (Danalogue Remix)',
+                     'track_id': '6tBdAocc9tUfP8UBG8DA4H', 'album_type': 'single',
+                     'spotify_track_url': 'https://open.spotify.com/track/6tBdAocc9tUfP8UBG8DA4H'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'My Mama',
+                     'album_id': '2bmUqajg4TigL4hpsxcBYm', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'My Mama',
+                     'track_id': '5eOyPCLt5R4qTyGxj2q4ce', 'album_type': 'single',
+                     'spotify_track_url': 'https://open.spotify.com/track/5eOyPCLt5R4qTyGxj2q4ce'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'Oi Oi',
+                     'album_id': '2tdA4dPM5BO4FtCSyj1CSr', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Oi Oi',
+                     'track_id': '6dfyatBPHo0cdIsYrqqQag', 'album_type': 'single',
+                     'spotify_track_url': 'https://open.spotify.com/track/6dfyatBPHo0cdIsYrqqQag'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'Madness',
+                     'album_id': '4LiVaJYwFoHvw9kY2cAEGU', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Madness',
+                     'track_id': '5NoUsV1CZh4jnmXfEAUy73', 'album_type': 'single',
+                     'spotify_track_url': 'https://open.spotify.com/track/5NoUsV1CZh4jnmXfEAUy73'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Nathan Feddo',
+                     'album_artist_id': '7aZcwXb4TGD03WEp7vzT6X', 'album': 'Leroy Merlin - EP',
+                     'album_id': '4TF8cUkpkW8I03NHMxIO2J', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': "Leroy's Coming",
+                     'track_id': '1ShO8iwaDRHCfhxcTTgsi8', 'album_type': 'single',
+                     'spotify_track_url': 'https://open.spotify.com/track/1ShO8iwaDRHCfhxcTTgsi8'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Nathan Feddo',
+                     'album_artist_id': '7aZcwXb4TGD03WEp7vzT6X', 'album': 'Leroy Merlin - EP',
+                     'album_id': '4TF8cUkpkW8I03NHMxIO2J', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'John the Baptist',
+                     'track_id': '09blSPEjyQmSlwN4hWhxYF', 'album_type': 'single',
+                     'spotify_track_url': 'https://open.spotify.com/track/09blSPEjyQmSlwN4hWhxYF'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Nathan Feddo',
+                     'album_artist_id': '7aZcwXb4TGD03WEp7vzT6X', 'album': 'Leroy Merlin - EP',
+                     'album_id': '4TF8cUkpkW8I03NHMxIO2J', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa',
+                     'title': 'Dylan Thomas (Ft. Boe Huntress)',
+                     'track_id': '4otNEWGsMpa6iXATgWzvL7', 'album_type': 'single',
+                     'spotify_track_url': 'https://open.spotify.com/track/4otNEWGsMpa6iXATgWzvL7'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Nathan Feddo',
+                     'album_artist_id': '7aZcwXb4TGD03WEp7vzT6X', 'album': 'Leroy Merlin - EP',
+                     'album_id': '4TF8cUkpkW8I03NHMxIO2J', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Have a Rum',
+                     'track_id': '3vJKCr4pTSAaryJQsXB2zh', 'album_type': 'single',
+                     'spotify_track_url': 'https://open.spotify.com/track/3vJKCr4pTSAaryJQsXB2zh'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'Eat My Camera EP',
+                     'album_id': '5Jq47dVVp0xydnJo77RXf2', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Marvellous',
+                     'track_id': '2xsjS2UXj9SjNl5PPrslN4', 'album_type': 'single',
+                     'spotify_track_url': 'https://open.spotify.com/track/2xsjS2UXj9SjNl5PPrslN4'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'Eat My Camera EP',
+                     'album_id': '5Jq47dVVp0xydnJo77RXf2', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Eat My Camera',
+                     'track_id': '4brzO4JABJR1u2g5EYWjPb', 'album_type': 'single',
+                     'spotify_track_url': 'https://open.spotify.com/track/4brzO4JABJR1u2g5EYWjPb'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'Eat My Camera EP',
+                     'album_id': '5Jq47dVVp0xydnJo77RXf2', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Ariane',
+                     'track_id': '4EXYD4F6REDSrJh9S8oMoF', 'album_type': 'single',
+                     'spotify_track_url': 'https://open.spotify.com/track/4EXYD4F6REDSrJh9S8oMoF'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'Eat My Camera EP',
+                     'album_id': '5Jq47dVVp0xydnJo77RXf2', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Cool & Calm',
+                     'track_id': '2LUMbs9CFLv4QGt5fklsLg', 'album_type': 'single',
+                     'spotify_track_url': 'https://open.spotify.com/track/2LUMbs9CFLv4QGt5fklsLg'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'Eat My Camera EP',
+                     'album_id': '5Jq47dVVp0xydnJo77RXf2', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Morning Light',
+                     'track_id': '3BlPJWXBKc0T7gMEXqzRYb', 'album_type': 'single',
+                     'spotify_track_url': 'https://open.spotify.com/track/3BlPJWXBKc0T7gMEXqzRYb'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Dizraeli',
+                     'album_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album': 'Eat My Camera EP',
+                     'album_id': '5Jq47dVVp0xydnJo77RXf2', 'track_artist': 'Dizraeli',
+                     'track_artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'title': 'Dona Diaz',
+                     'track_id': '6VRgIF9EKsf6tgn0OEWx2e', 'album_type': 'single',
+                     'spotify_track_url': 'https://open.spotify.com/track/6VRgIF9EKsf6tgn0OEWx2e'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Beans on Toast',
+                     'album_artist_id': '6fVeXD7D2RpFoR6bzNEDPo',
+                     'album': 'Survival of the Friendliest', 'album_id': '3tNgBareGoIuhWfR0wJNRb',
+                     'track_artist': 'Beans on Toast', 'track_artist_id': '6fVeXD7D2RpFoR6bzNEDPo',
+                     'title': 'A Beautiful Place', 'track_id': '6Ohu9hFectTFUNdIGQu94t',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/6Ohu9hFectTFUNdIGQu94t'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Beans on Toast',
+                     'album_artist_id': '6fVeXD7D2RpFoR6bzNEDPo',
+                     'album': 'Survival of the Friendliest', 'album_id': '3tNgBareGoIuhWfR0wJNRb',
+                     'track_artist': 'Beans on Toast', 'track_artist_id': '6fVeXD7D2RpFoR6bzNEDPo',
+                     'title': 'Stones', 'track_id': '4ENCYjUoldQkGjrNYoaBJ6', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/4ENCYjUoldQkGjrNYoaBJ6'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Beans on Toast',
+                     'album_artist_id': '6fVeXD7D2RpFoR6bzNEDPo',
+                     'album': 'Survival of the Friendliest', 'album_id': '3tNgBareGoIuhWfR0wJNRb',
+                     'track_artist': 'Beans on Toast', 'track_artist_id': '6fVeXD7D2RpFoR6bzNEDPo',
+                     'title': 'Blow Volcano Blow', 'track_id': '074C54zQ1pm5l8BzC3bQJF',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/074C54zQ1pm5l8BzC3bQJF'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Beans on Toast',
+                     'album_artist_id': '6fVeXD7D2RpFoR6bzNEDPo',
+                     'album': 'Survival of the Friendliest', 'album_id': '3tNgBareGoIuhWfR0wJNRb',
+                     'track_artist': 'Beans on Toast', 'track_artist_id': '6fVeXD7D2RpFoR6bzNEDPo',
+                     'title': "Not Everybody Thinks We're Doomed",
+                     'track_id': '25rdZFPj6seZkEjcMZv2NO', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/25rdZFPj6seZkEjcMZv2NO'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Beans on Toast',
+                     'album_artist_id': '6fVeXD7D2RpFoR6bzNEDPo',
+                     'album': 'Survival of the Friendliest', 'album_id': '3tNgBareGoIuhWfR0wJNRb',
+                     'track_artist': 'Beans on Toast', 'track_artist_id': '6fVeXD7D2RpFoR6bzNEDPo',
+                     'title': 'Tree of the Year', 'track_id': '5VKtXPMyY1G8iG3BcAx1tP',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/5VKtXPMyY1G8iG3BcAx1tP'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Beans on Toast',
+                     'album_artist_id': '6fVeXD7D2RpFoR6bzNEDPo',
+                     'album': 'Survival of the Friendliest', 'album_id': '3tNgBareGoIuhWfR0wJNRb',
+                     'track_artist': 'Beans on Toast', 'track_artist_id': '6fVeXD7D2RpFoR6bzNEDPo',
+                     'title': 'Humans', 'track_id': '1kcfEzzy6A4yeva2460FVQ', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/1kcfEzzy6A4yeva2460FVQ'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Beans on Toast',
+                     'album_artist_id': '6fVeXD7D2RpFoR6bzNEDPo',
+                     'album': 'Survival of the Friendliest', 'album_id': '3tNgBareGoIuhWfR0wJNRb',
+                     'track_artist': 'Beans on Toast', 'track_artist_id': '6fVeXD7D2RpFoR6bzNEDPo',
+                     'title': 'The Commons', 'track_id': '4w20sqWuFSmHU5wq44gvpp',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/4w20sqWuFSmHU5wq44gvpp'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Beans on Toast',
+                     'album_artist_id': '6fVeXD7D2RpFoR6bzNEDPo',
+                     'album': 'Survival of the Friendliest', 'album_id': '3tNgBareGoIuhWfR0wJNRb',
+                     'track_artist': 'Beans on Toast', 'track_artist_id': '6fVeXD7D2RpFoR6bzNEDPo',
+                     'title': "Let's Get Married Again", 'track_id': '3FjTvC64BtGMYlFDugo4Wa',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/3FjTvC64BtGMYlFDugo4Wa'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Beans on Toast',
+                     'album_artist_id': '6fVeXD7D2RpFoR6bzNEDPo',
+                     'album': 'Survival of the Friendliest', 'album_id': '3tNgBareGoIuhWfR0wJNRb',
+                     'track_artist': 'Beans on Toast', 'track_artist_id': '6fVeXD7D2RpFoR6bzNEDPo',
+                     'title': 'Apples', 'track_id': '2l1BNgTETaG5xrJkrJq65z', 'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/2l1BNgTETaG5xrJkrJq65z'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Beans on Toast',
+                     'album_artist_id': '6fVeXD7D2RpFoR6bzNEDPo',
+                     'album': 'Survival of the Friendliest', 'album_id': '3tNgBareGoIuhWfR0wJNRb',
+                     'track_artist': 'Beans on Toast', 'track_artist_id': '6fVeXD7D2RpFoR6bzNEDPo',
+                     'title': 'Ready for Action', 'track_id': '3GRHn3IHBx1f8e3N09A8Gz',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/3GRHn3IHBx1f8e3N09A8Gz'
+                 }, {
+                     'artist_id': '3xjNFu3aAWJie7LQzDoYNa', 'album_artist': 'Beans on Toast',
+                     'album_artist_id': '6fVeXD7D2RpFoR6bzNEDPo',
+                     'album': 'Survival of the Friendliest', 'album_id': '3tNgBareGoIuhWfR0wJNRb',
+                     'track_artist': 'Beans on Toast', 'track_artist_id': '6fVeXD7D2RpFoR6bzNEDPo',
+                     'title': 'Love Yourself', 'track_id': '0NDoV2yLpyZSadlcifiKDV',
+                     'album_type': 'album',
+                     'spotify_track_url': 'https://open.spotify.com/track/0NDoV2yLpyZSadlcifiKDV'
+                 }]
+
+output_albums = {
+    'album_type': 'album', 'artists': [{
+                                           'external_urls': {
+                                               'spotify': 'https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa'
+                                           },
+                                           'href': 'https://api.spotify.com/v1/artists/3xjNFu3aAWJie7LQzDoYNa',
+                                           'id': '3xjNFu3aAWJie7LQzDoYNa', 'name': 'Dizraeli',
+                                           'type': 'artist',
+                                           'uri': 'spotify:artist:3xjNFu3aAWJie7LQzDoYNa'
+                                       }],
+    'available_markets': ['AR', 'AU', 'AT', 'BE', 'BO', 'BR', 'BG', 'CA', 'CL', 'CO', 'CR', 'CY',
+                          'CZ', 'DK', 'DO', 'DE', 'EC', 'EE', 'SV', 'FI', 'FR', 'GR', 'GT', 'HN',
+                          'HK', 'HU', 'IS', 'IE', 'IT', 'LV', 'LT', 'LU', 'MY', 'MT', 'MX', 'NL',
+                          'NZ', 'NI', 'NO', 'PA', 'PY', 'PE', 'PH', 'PL', 'PT', 'SG', 'SK', 'ES',
+                          'SE', 'CH', 'TW', 'TR', 'UY', 'US', 'GB', 'AD', 'LI', 'MC', 'ID', 'JP',
+                          'TH', 'VN', 'RO', 'IL', 'ZA', 'SA', 'AE', 'BH', 'QA', 'OM', 'KW', 'EG',
+                          'MA', 'DZ', 'TN', 'LB', 'JO', 'PS', 'IN', 'BY', 'KZ', 'MD', 'UA', 'AL',
+                          'BA', 'HR', 'ME', 'MK', 'RS', 'SI', 'KR', 'BD', 'PK', 'LK', 'GH', 'KE',
+                          'NG', 'TZ', 'UG', 'AG', 'AM', 'BS', 'BB', 'BZ', 'BT', 'BW', 'BF', 'CV',
+                          'CW', 'DM', 'FJ', 'GM', 'GE', 'GD', 'GW', 'GY', 'HT', 'JM', 'KI', 'LS',
+                          'LR', 'MW', 'MV', 'ML', 'MH', 'FM', 'NA', 'NR', 'NE', 'PW', 'PG', 'WS',
+                          'SM', 'ST', 'SN', 'SC', 'SL', 'SB', 'KN', 'LC', 'VC', 'SR', 'TL', 'TO',
+                          'TT', 'TV', 'VU', 'AZ', 'BN', 'BI', 'KH', 'CM', 'TD', 'KM', 'GQ', 'SZ',
+                          'GA', 'GN', 'KG', 'LA', 'MO', 'MR', 'MN', 'NP', 'RW', 'TG', 'UZ', 'ZW',
+                          'BJ', 'MG', 'MU', 'MZ', 'AO', 'CI', 'DJ', 'ZM', 'CD', 'CG', 'IQ', 'LY',
+                          'TJ', 'VE', 'ET', 'XK'],
+    'copyrights': [{'text': '2023 Continuous Breath', 'type': 'C'},
+                   {'text': '2023 Continuous Breath', 'type': 'P'}],
+    'external_ids': {'upc': '197630893796'},
+    'external_urls': {'spotify': 'https://open.spotify.com/album/31cMNkGXPCaYDdwrz4EnHn'},
+    'genres': [], 'href': 'https://api.spotify.com/v1/albums/31cMNkGXPCaYDdwrz4EnHn',
+    'id': '31cMNkGXPCaYDdwrz4EnHn', 'images': [{
+                                                   'height': 640,
+                                                   'url': 'https://i.scdn.co/image/ab67616d0000b273a40deda7a07584d677c68ddb',
+                                                   'width': 640
+                                               }, {
+                                                   'height': 300,
+                                                   'url': 'https://i.scdn.co/image/ab67616d00001e02a40deda7a07584d677c68ddb',
+                                                   'width': 300
+                                               }, {
+                                                   'height': 64,
+                                                   'url': 'https://i.scdn.co/image/ab67616d00004851a40deda7a07584d677c68ddb',
+                                                   'width': 64
+                                               }], 'label': 'Continuous Breath',
+    'name': 'Alive At The End Of The World : Set Two', 'popularity': 7,
+    'release_date': '2023-03-31', 'release_date_precision': 'day', 'total_tracks': 12,
+    'tracks': {
+        'href': 'https://api.spotify.com/v1/albums/31cMNkGXPCaYDdwrz4EnHn/tracks?offset=0&limit=50',
+        'items': [{
+                      'artists': [{
+                                      'external_urls': {
+                                          'spotify': 'https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa'
+                                      },
+                                      'href': 'https://api.spotify.com/v1/artists/3xjNFu3aAWJie7LQzDoYNa',
+                                      'id': '3xjNFu3aAWJie7LQzDoYNa', 'name': 'Dizraeli',
+                                      'type': 'artist',
+                                      'uri': 'spotify:artist:3xjNFu3aAWJie7LQzDoYNa'
+                                  }],
+                      'available_markets': ['AR', 'AU', 'AT', 'BE', 'BO', 'BR', 'BG', 'CA', 'CL',
+                                            'CO', 'CR', 'CY', 'CZ', 'DK', 'DO', 'DE', 'EC', 'EE',
+                                            'SV', 'FI', 'FR', 'GR', 'GT', 'HN', 'HK', 'HU', 'IS',
+                                            'IE', 'IT', 'LV', 'LT', 'LU', 'MY', 'MT', 'MX', 'NL',
+                                            'NZ', 'NI', 'NO', 'PA', 'PY', 'PE', 'PH', 'PL', 'PT',
+                                            'SG', 'SK', 'ES', 'SE', 'CH', 'TW', 'TR', 'UY', 'US',
+                                            'GB', 'AD', 'LI', 'MC', 'ID', 'JP', 'TH', 'VN', 'RO',
+                                            'IL', 'ZA', 'SA', 'AE', 'BH', 'QA', 'OM', 'KW', 'EG',
+                                            'MA', 'DZ', 'TN', 'LB', 'JO', 'PS', 'IN', 'BY', 'KZ',
+                                            'MD', 'UA', 'AL', 'BA', 'HR', 'ME', 'MK', 'RS', 'SI',
+                                            'KR', 'BD', 'PK', 'LK', 'GH', 'KE', 'NG', 'TZ', 'UG',
+                                            'AG', 'AM', 'BS', 'BB', 'BZ', 'BT', 'BW', 'BF', 'CV',
+                                            'CW', 'DM', 'FJ', 'GM', 'GE', 'GD', 'GW', 'GY', 'HT',
+                                            'JM', 'KI', 'LS', 'LR', 'MW', 'MV', 'ML', 'MH', 'FM',
+                                            'NA', 'NR', 'NE', 'PW', 'PG', 'WS', 'SM', 'ST', 'SN',
+                                            'SC', 'SL', 'SB', 'KN', 'LC', 'VC', 'SR', 'TL', 'TO',
+                                            'TT', 'TV', 'VU', 'AZ', 'BN', 'BI', 'KH', 'CM', 'TD',
+                                            'KM', 'GQ', 'SZ', 'GA', 'GN', 'KG', 'LA', 'MO', 'MR',
+                                            'MN', 'NP', 'RW', 'TG', 'UZ', 'ZW', 'BJ', 'MG', 'MU',
+                                            'MZ', 'AO', 'CI', 'DJ', 'ZM', 'CD', 'CG', 'IQ', 'LY',
+                                            'TJ', 'VE', 'ET', 'XK'], 'disc_number': 1,
+                      'duration_ms': 241826, 'explicit': False, 'external_urls': {
+                'spotify': 'https://open.spotify.com/track/73eTIVXXj36A1YX6gW7zuO'
+            }, 'href': 'https://api.spotify.com/v1/tracks/73eTIVXXj36A1YX6gW7zuO',
+                      'id': '73eTIVXXj36A1YX6gW7zuO', 'is_local': False, 'name': 'Madness (Live)',
+                      'preview_url': 'https://p.scdn.co/mp3-preview/df6485c9767a9b0ca14c94c146c5e66a302e2042?cid=9495731cd83a4bb4903717603e4f6275',
+                      'track_number': 1, 'type': 'track',
+                      'uri': 'spotify:track:73eTIVXXj36A1YX6gW7zuO'
+                  }, {
+                      'artists': [{
+                                      'external_urls': {
+                                          'spotify': 'https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa'
+                                      },
+                                      'href': 'https://api.spotify.com/v1/artists/3xjNFu3aAWJie7LQzDoYNa',
+                                      'id': '3xjNFu3aAWJie7LQzDoYNa', 'name': 'Dizraeli',
+                                      'type': 'artist',
+                                      'uri': 'spotify:artist:3xjNFu3aAWJie7LQzDoYNa'
+                                  }],
+                      'available_markets': ['AR', 'AU', 'AT', 'BE', 'BO', 'BR', 'BG', 'CA', 'CL',
+                                            'CO', 'CR', 'CY', 'CZ', 'DK', 'DO', 'DE', 'EC', 'EE',
+                                            'SV', 'FI', 'FR', 'GR', 'GT', 'HN', 'HK', 'HU', 'IS',
+                                            'IE', 'IT', 'LV', 'LT', 'LU', 'MY', 'MT', 'MX', 'NL',
+                                            'NZ', 'NI', 'NO', 'PA', 'PY', 'PE', 'PH', 'PL', 'PT',
+                                            'SG', 'SK', 'ES', 'SE', 'CH', 'TW', 'TR', 'UY', 'US',
+                                            'GB', 'AD', 'LI', 'MC', 'ID', 'JP', 'TH', 'VN', 'RO',
+                                            'IL', 'ZA', 'SA', 'AE', 'BH', 'QA', 'OM', 'KW', 'EG',
+                                            'MA', 'DZ', 'TN', 'LB', 'JO', 'PS', 'IN', 'BY', 'KZ',
+                                            'MD', 'UA', 'AL', 'BA', 'HR', 'ME', 'MK', 'RS', 'SI',
+                                            'KR', 'BD', 'PK', 'LK', 'GH', 'KE', 'NG', 'TZ', 'UG',
+                                            'AG', 'AM', 'BS', 'BB', 'BZ', 'BT', 'BW', 'BF', 'CV',
+                                            'CW', 'DM', 'FJ', 'GM', 'GE', 'GD', 'GW', 'GY', 'HT',
+                                            'JM', 'KI', 'LS', 'LR', 'MW', 'MV', 'ML', 'MH', 'FM',
+                                            'NA', 'NR', 'NE', 'PW', 'PG', 'WS', 'SM', 'ST', 'SN',
+                                            'SC', 'SL', 'SB', 'KN', 'LC', 'VC', 'SR', 'TL', 'TO',
+                                            'TT', 'TV', 'VU', 'AZ', 'BN', 'BI', 'KH', 'CM', 'TD',
+                                            'KM', 'GQ', 'SZ', 'GA', 'GN', 'KG', 'LA', 'MO', 'MR',
+                                            'MN', 'NP', 'RW', 'TG', 'UZ', 'ZW', 'BJ', 'MG', 'MU',
+                                            'MZ', 'AO', 'CI', 'DJ', 'ZM', 'CD', 'CG', 'IQ', 'LY',
+                                            'TJ', 'VE', 'ET', 'XK'], 'disc_number': 1,
+                      'duration_ms': 215746, 'explicit': False, 'external_urls': {
+                'spotify': 'https://open.spotify.com/track/59yhDEQoUOwywciNf8n4ho'
+            }, 'href': 'https://api.spotify.com/v1/tracks/59yhDEQoUOwywciNf8n4ho',
+                      'id': '59yhDEQoUOwywciNf8n4ho', 'is_local': False, 'name': 'My Mama (Live)',
+                      'preview_url': 'https://p.scdn.co/mp3-preview/3dfddf969c24c40253ae91313aad693f17f468d0?cid=9495731cd83a4bb4903717603e4f6275',
+                      'track_number': 2, 'type': 'track',
+                      'uri': 'spotify:track:59yhDEQoUOwywciNf8n4ho'
+                  }, {
+                      'artists': [{
+                                      'external_urls': {
+                                          'spotify': 'https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa'
+                                      },
+                                      'href': 'https://api.spotify.com/v1/artists/3xjNFu3aAWJie7LQzDoYNa',
+                                      'id': '3xjNFu3aAWJie7LQzDoYNa', 'name': 'Dizraeli',
+                                      'type': 'artist',
+                                      'uri': 'spotify:artist:3xjNFu3aAWJie7LQzDoYNa'
+                                  }],
+                      'available_markets': ['AR', 'AU', 'AT', 'BE', 'BO', 'BR', 'BG', 'CA', 'CL',
+                                            'CO', 'CR', 'CY', 'CZ', 'DK', 'DO', 'DE', 'EC', 'EE',
+                                            'SV', 'FI', 'FR', 'GR', 'GT', 'HN', 'HK', 'HU', 'IS',
+                                            'IE', 'IT', 'LV', 'LT', 'LU', 'MY', 'MT', 'MX', 'NL',
+                                            'NZ', 'NI', 'NO', 'PA', 'PY', 'PE', 'PH', 'PL', 'PT',
+                                            'SG', 'SK', 'ES', 'SE', 'CH', 'TW', 'TR', 'UY', 'US',
+                                            'GB', 'AD', 'LI', 'MC', 'ID', 'JP', 'TH', 'VN', 'RO',
+                                            'IL', 'ZA', 'SA', 'AE', 'BH', 'QA', 'OM', 'KW', 'EG',
+                                            'MA', 'DZ', 'TN', 'LB', 'JO', 'PS', 'IN', 'BY', 'KZ',
+                                            'MD', 'UA', 'AL', 'BA', 'HR', 'ME', 'MK', 'RS', 'SI',
+                                            'KR', 'BD', 'PK', 'LK', 'GH', 'KE', 'NG', 'TZ', 'UG',
+                                            'AG', 'AM', 'BS', 'BB', 'BZ', 'BT', 'BW', 'BF', 'CV',
+                                            'CW', 'DM', 'FJ', 'GM', 'GE', 'GD', 'GW', 'GY', 'HT',
+                                            'JM', 'KI', 'LS', 'LR', 'MW', 'MV', 'ML', 'MH', 'FM',
+                                            'NA', 'NR', 'NE', 'PW', 'PG', 'WS', 'SM', 'ST', 'SN',
+                                            'SC', 'SL', 'SB', 'KN', 'LC', 'VC', 'SR', 'TL', 'TO',
+                                            'TT', 'TV', 'VU', 'AZ', 'BN', 'BI', 'KH', 'CM', 'TD',
+                                            'KM', 'GQ', 'SZ', 'GA', 'GN', 'KG', 'LA', 'MO', 'MR',
+                                            'MN', 'NP', 'RW', 'TG', 'UZ', 'ZW', 'BJ', 'MG', 'MU',
+                                            'MZ', 'AO', 'CI', 'DJ', 'ZM', 'CD', 'CG', 'IQ', 'LY',
+                                            'TJ', 'VE', 'ET', 'XK'], 'disc_number': 1,
+                      'duration_ms': 28253, 'explicit': False, 'external_urls': {
+                'spotify': 'https://open.spotify.com/track/5fhiCDE9BgAmR9Ko2uygan'
+            }, 'href': 'https://api.spotify.com/v1/tracks/5fhiCDE9BgAmR9Ko2uygan',
+                      'id': '5fhiCDE9BgAmR9Ko2uygan', 'is_local': False,
+                      'name': 'Scream (Interlude)',
+                      'preview_url': 'https://p.scdn.co/mp3-preview/a0017a208d50528fc66244b22ce638de98bc9277?cid=9495731cd83a4bb4903717603e4f6275',
+                      'track_number': 3, 'type': 'track',
+                      'uri': 'spotify:track:5fhiCDE9BgAmR9Ko2uygan'
+                  }, {
+                      'artists': [{
+                                      'external_urls': {
+                                          'spotify': 'https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa'
+                                      },
+                                      'href': 'https://api.spotify.com/v1/artists/3xjNFu3aAWJie7LQzDoYNa',
+                                      'id': '3xjNFu3aAWJie7LQzDoYNa', 'name': 'Dizraeli',
+                                      'type': 'artist',
+                                      'uri': 'spotify:artist:3xjNFu3aAWJie7LQzDoYNa'
+                                  }],
+                      'available_markets': ['AR', 'AU', 'AT', 'BE', 'BO', 'BR', 'BG', 'CA', 'CL',
+                                            'CO', 'CR', 'CY', 'CZ', 'DK', 'DO', 'DE', 'EC', 'EE',
+                                            'SV', 'FI', 'FR', 'GR', 'GT', 'HN', 'HK', 'HU', 'IS',
+                                            'IE', 'IT', 'LV', 'LT', 'LU', 'MY', 'MT', 'MX', 'NL',
+                                            'NZ', 'NI', 'NO', 'PA', 'PY', 'PE', 'PH', 'PL', 'PT',
+                                            'SG', 'SK', 'ES', 'SE', 'CH', 'TW', 'TR', 'UY', 'US',
+                                            'GB', 'AD', 'LI', 'MC', 'ID', 'JP', 'TH', 'VN', 'RO',
+                                            'IL', 'ZA', 'SA', 'AE', 'BH', 'QA', 'OM', 'KW', 'EG',
+                                            'MA', 'DZ', 'TN', 'LB', 'JO', 'PS', 'IN', 'BY', 'KZ',
+                                            'MD', 'UA', 'AL', 'BA', 'HR', 'ME', 'MK', 'RS', 'SI',
+                                            'KR', 'BD', 'PK', 'LK', 'GH', 'KE', 'NG', 'TZ', 'UG',
+                                            'AG', 'AM', 'BS', 'BB', 'BZ', 'BT', 'BW', 'BF', 'CV',
+                                            'CW', 'DM', 'FJ', 'GM', 'GE', 'GD', 'GW', 'GY', 'HT',
+                                            'JM', 'KI', 'LS', 'LR', 'MW', 'MV', 'ML', 'MH', 'FM',
+                                            'NA', 'NR', 'NE', 'PW', 'PG', 'WS', 'SM', 'ST', 'SN',
+                                            'SC', 'SL', 'SB', 'KN', 'LC', 'VC', 'SR', 'TL', 'TO',
+                                            'TT', 'TV', 'VU', 'AZ', 'BN', 'BI', 'KH', 'CM', 'TD',
+                                            'KM', 'GQ', 'SZ', 'GA', 'GN', 'KG', 'LA', 'MO', 'MR',
+                                            'MN', 'NP', 'RW', 'TG', 'UZ', 'ZW', 'BJ', 'MG', 'MU',
+                                            'MZ', 'AO', 'CI', 'DJ', 'ZM', 'CD', 'CG', 'IQ', 'LY',
+                                            'TJ', 'VE', 'ET', 'XK'], 'disc_number': 1,
+                      'duration_ms': 194440, 'explicit': False, 'external_urls': {
+                'spotify': 'https://open.spotify.com/track/5IcMujdCfpdSRWRVz3aArR'
+            }, 'href': 'https://api.spotify.com/v1/tracks/5IcMujdCfpdSRWRVz3aArR',
+                      'id': '5IcMujdCfpdSRWRVz3aArR', 'is_local': False, 'name': 'Oi Oi (Live)',
+                      'preview_url': 'https://p.scdn.co/mp3-preview/cdd020226f1cb9aceaa1866ffd58dfb63408b2c6?cid=9495731cd83a4bb4903717603e4f6275',
+                      'track_number': 4, 'type': 'track',
+                      'uri': 'spotify:track:5IcMujdCfpdSRWRVz3aArR'
+                  }, {
+                      'artists': [{
+                                      'external_urls': {
+                                          'spotify': 'https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa'
+                                      },
+                                      'href': 'https://api.spotify.com/v1/artists/3xjNFu3aAWJie7LQzDoYNa',
+                                      'id': '3xjNFu3aAWJie7LQzDoYNa', 'name': 'Dizraeli',
+                                      'type': 'artist',
+                                      'uri': 'spotify:artist:3xjNFu3aAWJie7LQzDoYNa'
+                                  }],
+                      'available_markets': ['AR', 'AU', 'AT', 'BE', 'BO', 'BR', 'BG', 'CA', 'CL',
+                                            'CO', 'CR', 'CY', 'CZ', 'DK', 'DO', 'DE', 'EC', 'EE',
+                                            'SV', 'FI', 'FR', 'GR', 'GT', 'HN', 'HK', 'HU', 'IS',
+                                            'IE', 'IT', 'LV', 'LT', 'LU', 'MY', 'MT', 'MX', 'NL',
+                                            'NZ', 'NI', 'NO', 'PA', 'PY', 'PE', 'PH', 'PL', 'PT',
+                                            'SG', 'SK', 'ES', 'SE', 'CH', 'TW', 'TR', 'UY', 'US',
+                                            'GB', 'AD', 'LI', 'MC', 'ID', 'JP', 'TH', 'VN', 'RO',
+                                            'IL', 'ZA', 'SA', 'AE', 'BH', 'QA', 'OM', 'KW', 'EG',
+                                            'MA', 'DZ', 'TN', 'LB', 'JO', 'PS', 'IN', 'BY', 'KZ',
+                                            'MD', 'UA', 'AL', 'BA', 'HR', 'ME', 'MK', 'RS', 'SI',
+                                            'KR', 'BD', 'PK', 'LK', 'GH', 'KE', 'NG', 'TZ', 'UG',
+                                            'AG', 'AM', 'BS', 'BB', 'BZ', 'BT', 'BW', 'BF', 'CV',
+                                            'CW', 'DM', 'FJ', 'GM', 'GE', 'GD', 'GW', 'GY', 'HT',
+                                            'JM', 'KI', 'LS', 'LR', 'MW', 'MV', 'ML', 'MH', 'FM',
+                                            'NA', 'NR', 'NE', 'PW', 'PG', 'WS', 'SM', 'ST', 'SN',
+                                            'SC', 'SL', 'SB', 'KN', 'LC', 'VC', 'SR', 'TL', 'TO',
+                                            'TT', 'TV', 'VU', 'AZ', 'BN', 'BI', 'KH', 'CM', 'TD',
+                                            'KM', 'GQ', 'SZ', 'GA', 'GN', 'KG', 'LA', 'MO', 'MR',
+                                            'MN', 'NP', 'RW', 'TG', 'UZ', 'ZW', 'BJ', 'MG', 'MU',
+                                            'MZ', 'AO', 'CI', 'DJ', 'ZM', 'CD', 'CG', 'IQ', 'LY',
+                                            'TJ', 'VE', 'ET', 'XK'], 'disc_number': 1,
+                      'duration_ms': 29613, 'explicit': True, 'external_urls': {
+                'spotify': 'https://open.spotify.com/track/1qARJMxXX55POq7ysbnXTL'
+            }, 'href': 'https://api.spotify.com/v1/tracks/1qARJMxXX55POq7ysbnXTL',
+                      'id': '1qARJMxXX55POq7ysbnXTL', 'is_local': False,
+                      'name': 'Sacred Sperms (Interlude)',
+                      'preview_url': 'https://p.scdn.co/mp3-preview/c496451822912e6d311cc76132859582ce2890a2?cid=9495731cd83a4bb4903717603e4f6275',
+                      'track_number': 5, 'type': 'track',
+                      'uri': 'spotify:track:1qARJMxXX55POq7ysbnXTL'
+                  }, {
+                      'artists': [{
+                                      'external_urls': {
+                                          'spotify': 'https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa'
+                                      },
+                                      'href': 'https://api.spotify.com/v1/artists/3xjNFu3aAWJie7LQzDoYNa',
+                                      'id': '3xjNFu3aAWJie7LQzDoYNa', 'name': 'Dizraeli',
+                                      'type': 'artist',
+                                      'uri': 'spotify:artist:3xjNFu3aAWJie7LQzDoYNa'
+                                  }],
+                      'available_markets': ['AR', 'AU', 'AT', 'BE', 'BO', 'BR', 'BG', 'CA', 'CL',
+                                            'CO', 'CR', 'CY', 'CZ', 'DK', 'DO', 'DE', 'EC', 'EE',
+                                            'SV', 'FI', 'FR', 'GR', 'GT', 'HN', 'HK', 'HU', 'IS',
+                                            'IE', 'IT', 'LV', 'LT', 'LU', 'MY', 'MT', 'MX', 'NL',
+                                            'NZ', 'NI', 'NO', 'PA', 'PY', 'PE', 'PH', 'PL', 'PT',
+                                            'SG', 'SK', 'ES', 'SE', 'CH', 'TW', 'TR', 'UY', 'US',
+                                            'GB', 'AD', 'LI', 'MC', 'ID', 'JP', 'TH', 'VN', 'RO',
+                                            'IL', 'ZA', 'SA', 'AE', 'BH', 'QA', 'OM', 'KW', 'EG',
+                                            'MA', 'DZ', 'TN', 'LB', 'JO', 'PS', 'IN', 'BY', 'KZ',
+                                            'MD', 'UA', 'AL', 'BA', 'HR', 'ME', 'MK', 'RS', 'SI',
+                                            'KR', 'BD', 'PK', 'LK', 'GH', 'KE', 'NG', 'TZ', 'UG',
+                                            'AG', 'AM', 'BS', 'BB', 'BZ', 'BT', 'BW', 'BF', 'CV',
+                                            'CW', 'DM', 'FJ', 'GM', 'GE', 'GD', 'GW', 'GY', 'HT',
+                                            'JM', 'KI', 'LS', 'LR', 'MW', 'MV', 'ML', 'MH', 'FM',
+                                            'NA', 'NR', 'NE', 'PW', 'PG', 'WS', 'SM', 'ST', 'SN',
+                                            'SC', 'SL', 'SB', 'KN', 'LC', 'VC', 'SR', 'TL', 'TO',
+                                            'TT', 'TV', 'VU', 'AZ', 'BN', 'BI', 'KH', 'CM', 'TD',
+                                            'KM', 'GQ', 'SZ', 'GA', 'GN', 'KG', 'LA', 'MO', 'MR',
+                                            'MN', 'NP', 'RW', 'TG', 'UZ', 'ZW', 'BJ', 'MG', 'MU',
+                                            'MZ', 'AO', 'CI', 'DJ', 'ZM', 'CD', 'CG', 'IQ', 'LY',
+                                            'TJ', 'VE', 'ET', 'XK'], 'disc_number': 1,
+                      'duration_ms': 158386, 'explicit': False, 'external_urls': {
+                'spotify': 'https://open.spotify.com/track/4u8OV8ewt5HyxtRr8gTbGe'
+            }, 'href': 'https://api.spotify.com/v1/tracks/4u8OV8ewt5HyxtRr8gTbGe',
+                      'id': '4u8OV8ewt5HyxtRr8gTbGe', 'is_local': False,
+                      'name': "I'm A Wave Part ii (Live)",
+                      'preview_url': 'https://p.scdn.co/mp3-preview/f6c892009673e7e50ade391279bbac1bca9cc6ae?cid=9495731cd83a4bb4903717603e4f6275',
+                      'track_number': 6, 'type': 'track',
+                      'uri': 'spotify:track:4u8OV8ewt5HyxtRr8gTbGe'
+                  }, {
+                      'artists': [{
+                                      'external_urls': {
+                                          'spotify': 'https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa'
+                                      },
+                                      'href': 'https://api.spotify.com/v1/artists/3xjNFu3aAWJie7LQzDoYNa',
+                                      'id': '3xjNFu3aAWJie7LQzDoYNa', 'name': 'Dizraeli',
+                                      'type': 'artist',
+                                      'uri': 'spotify:artist:3xjNFu3aAWJie7LQzDoYNa'
+                                  }],
+                      'available_markets': ['AR', 'AU', 'AT', 'BE', 'BO', 'BR', 'BG', 'CA', 'CL',
+                                            'CO', 'CR', 'CY', 'CZ', 'DK', 'DO', 'DE', 'EC', 'EE',
+                                            'SV', 'FI', 'FR', 'GR', 'GT', 'HN', 'HK', 'HU', 'IS',
+                                            'IE', 'IT', 'LV', 'LT', 'LU', 'MY', 'MT', 'MX', 'NL',
+                                            'NZ', 'NI', 'NO', 'PA', 'PY', 'PE', 'PH', 'PL', 'PT',
+                                            'SG', 'SK', 'ES', 'SE', 'CH', 'TW', 'TR', 'UY', 'US',
+                                            'GB', 'AD', 'LI', 'MC', 'ID', 'JP', 'TH', 'VN', 'RO',
+                                            'IL', 'ZA', 'SA', 'AE', 'BH', 'QA', 'OM', 'KW', 'EG',
+                                            'MA', 'DZ', 'TN', 'LB', 'JO', 'PS', 'IN', 'BY', 'KZ',
+                                            'MD', 'UA', 'AL', 'BA', 'HR', 'ME', 'MK', 'RS', 'SI',
+                                            'KR', 'BD', 'PK', 'LK', 'GH', 'KE', 'NG', 'TZ', 'UG',
+                                            'AG', 'AM', 'BS', 'BB', 'BZ', 'BT', 'BW', 'BF', 'CV',
+                                            'CW', 'DM', 'FJ', 'GM', 'GE', 'GD', 'GW', 'GY', 'HT',
+                                            'JM', 'KI', 'LS', 'LR', 'MW', 'MV', 'ML', 'MH', 'FM',
+                                            'NA', 'NR', 'NE', 'PW', 'PG', 'WS', 'SM', 'ST', 'SN',
+                                            'SC', 'SL', 'SB', 'KN', 'LC', 'VC', 'SR', 'TL', 'TO',
+                                            'TT', 'TV', 'VU', 'AZ', 'BN', 'BI', 'KH', 'CM', 'TD',
+                                            'KM', 'GQ', 'SZ', 'GA', 'GN', 'KG', 'LA', 'MO', 'MR',
+                                            'MN', 'NP', 'RW', 'TG', 'UZ', 'ZW', 'BJ', 'MG', 'MU',
+                                            'MZ', 'AO', 'CI', 'DJ', 'ZM', 'CD', 'CG', 'IQ', 'LY',
+                                            'TJ', 'VE', 'ET', 'XK'], 'disc_number': 1,
+                      'duration_ms': 274600, 'explicit': True, 'external_urls': {
+                'spotify': 'https://open.spotify.com/track/0UcjnRvCRFycMsb4no1LHf'
+            }, 'href': 'https://api.spotify.com/v1/tracks/0UcjnRvCRFycMsb4no1LHf',
+                      'id': '0UcjnRvCRFycMsb4no1LHf', 'is_local': False,
+                      'name': 'The Kid Acapella (Live)',
+                      'preview_url': 'https://p.scdn.co/mp3-preview/7eda9f2ff5a0531f7c8d409273c6fc2136b5cd21?cid=9495731cd83a4bb4903717603e4f6275',
+                      'track_number': 7, 'type': 'track',
+                      'uri': 'spotify:track:0UcjnRvCRFycMsb4no1LHf'
+                  }, {
+                      'artists': [{
+                                      'external_urls': {
+                                          'spotify': 'https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa'
+                                      },
+                                      'href': 'https://api.spotify.com/v1/artists/3xjNFu3aAWJie7LQzDoYNa',
+                                      'id': '3xjNFu3aAWJie7LQzDoYNa', 'name': 'Dizraeli',
+                                      'type': 'artist',
+                                      'uri': 'spotify:artist:3xjNFu3aAWJie7LQzDoYNa'
+                                  }],
+                      'available_markets': ['AR', 'AU', 'AT', 'BE', 'BO', 'BR', 'BG', 'CA', 'CL',
+                                            'CO', 'CR', 'CY', 'CZ', 'DK', 'DO', 'DE', 'EC', 'EE',
+                                            'SV', 'FI', 'FR', 'GR', 'GT', 'HN', 'HK', 'HU', 'IS',
+                                            'IE', 'IT', 'LV', 'LT', 'LU', 'MY', 'MT', 'MX', 'NL',
+                                            'NZ', 'NI', 'NO', 'PA', 'PY', 'PE', 'PH', 'PL', 'PT',
+                                            'SG', 'SK', 'ES', 'SE', 'CH', 'TW', 'TR', 'UY', 'US',
+                                            'GB', 'AD', 'LI', 'MC', 'ID', 'JP', 'TH', 'VN', 'RO',
+                                            'IL', 'ZA', 'SA', 'AE', 'BH', 'QA', 'OM', 'KW', 'EG',
+                                            'MA', 'DZ', 'TN', 'LB', 'JO', 'PS', 'IN', 'BY', 'KZ',
+                                            'MD', 'UA', 'AL', 'BA', 'HR', 'ME', 'MK', 'RS', 'SI',
+                                            'KR', 'BD', 'PK', 'LK', 'GH', 'KE', 'NG', 'TZ', 'UG',
+                                            'AG', 'AM', 'BS', 'BB', 'BZ', 'BT', 'BW', 'BF', 'CV',
+                                            'CW', 'DM', 'FJ', 'GM', 'GE', 'GD', 'GW', 'GY', 'HT',
+                                            'JM', 'KI', 'LS', 'LR', 'MW', 'MV', 'ML', 'MH', 'FM',
+                                            'NA', 'NR', 'NE', 'PW', 'PG', 'WS', 'SM', 'ST', 'SN',
+                                            'SC', 'SL', 'SB', 'KN', 'LC', 'VC', 'SR', 'TL', 'TO',
+                                            'TT', 'TV', 'VU', 'AZ', 'BN', 'BI', 'KH', 'CM', 'TD',
+                                            'KM', 'GQ', 'SZ', 'GA', 'GN', 'KG', 'LA', 'MO', 'MR',
+                                            'MN', 'NP', 'RW', 'TG', 'UZ', 'ZW', 'BJ', 'MG', 'MU',
+                                            'MZ', 'AO', 'CI', 'DJ', 'ZM', 'CD', 'CG', 'IQ', 'LY',
+                                            'TJ', 'VE', 'ET', 'XK'], 'disc_number': 1,
+                      'duration_ms': 346706, 'explicit': True, 'external_urls': {
+                'spotify': 'https://open.spotify.com/track/2gzJD1IEoCuferyuaCrPod'
+            }, 'href': 'https://api.spotify.com/v1/tracks/2gzJD1IEoCuferyuaCrPod',
+                      'id': '2gzJD1IEoCuferyuaCrPod', 'is_local': False,
+                      'name': 'Ketamine Honey (Live)',
+                      'preview_url': 'https://p.scdn.co/mp3-preview/6a36dfb9293aa18386976c544c5e0979af71a1df?cid=9495731cd83a4bb4903717603e4f6275',
+                      'track_number': 8, 'type': 'track',
+                      'uri': 'spotify:track:2gzJD1IEoCuferyuaCrPod'
+                  }, {
+                      'artists': [{
+                                      'external_urls': {
+                                          'spotify': 'https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa'
+                                      },
+                                      'href': 'https://api.spotify.com/v1/artists/3xjNFu3aAWJie7LQzDoYNa',
+                                      'id': '3xjNFu3aAWJie7LQzDoYNa', 'name': 'Dizraeli',
+                                      'type': 'artist',
+                                      'uri': 'spotify:artist:3xjNFu3aAWJie7LQzDoYNa'
+                                  }],
+                      'available_markets': ['AR', 'AU', 'AT', 'BE', 'BO', 'BR', 'BG', 'CA', 'CL',
+                                            'CO', 'CR', 'CY', 'CZ', 'DK', 'DO', 'DE', 'EC', 'EE',
+                                            'SV', 'FI', 'FR', 'GR', 'GT', 'HN', 'HK', 'HU', 'IS',
+                                            'IE', 'IT', 'LV', 'LT', 'LU', 'MY', 'MT', 'MX', 'NL',
+                                            'NZ', 'NI', 'NO', 'PA', 'PY', 'PE', 'PH', 'PL', 'PT',
+                                            'SG', 'SK', 'ES', 'SE', 'CH', 'TW', 'TR', 'UY', 'US',
+                                            'GB', 'AD', 'LI', 'MC', 'ID', 'JP', 'TH', 'VN', 'RO',
+                                            'IL', 'ZA', 'SA', 'AE', 'BH', 'QA', 'OM', 'KW', 'EG',
+                                            'MA', 'DZ', 'TN', 'LB', 'JO', 'PS', 'IN', 'BY', 'KZ',
+                                            'MD', 'UA', 'AL', 'BA', 'HR', 'ME', 'MK', 'RS', 'SI',
+                                            'KR', 'BD', 'PK', 'LK', 'GH', 'KE', 'NG', 'TZ', 'UG',
+                                            'AG', 'AM', 'BS', 'BB', 'BZ', 'BT', 'BW', 'BF', 'CV',
+                                            'CW', 'DM', 'FJ', 'GM', 'GE', 'GD', 'GW', 'GY', 'HT',
+                                            'JM', 'KI', 'LS', 'LR', 'MW', 'MV', 'ML', 'MH', 'FM',
+                                            'NA', 'NR', 'NE', 'PW', 'PG', 'WS', 'SM', 'ST', 'SN',
+                                            'SC', 'SL', 'SB', 'KN', 'LC', 'VC', 'SR', 'TL', 'TO',
+                                            'TT', 'TV', 'VU', 'AZ', 'BN', 'BI', 'KH', 'CM', 'TD',
+                                            'KM', 'GQ', 'SZ', 'GA', 'GN', 'KG', 'LA', 'MO', 'MR',
+                                            'MN', 'NP', 'RW', 'TG', 'UZ', 'ZW', 'BJ', 'MG', 'MU',
+                                            'MZ', 'AO', 'CI', 'DJ', 'ZM', 'CD', 'CG', 'IQ', 'LY',
+                                            'TJ', 'VE', 'ET', 'XK'], 'disc_number': 1,
+                      'duration_ms': 83813, 'explicit': False, 'external_urls': {
+                'spotify': 'https://open.spotify.com/track/7JcKXB8SFb4tC4PwC1rX50'
+            }, 'href': 'https://api.spotify.com/v1/tracks/7JcKXB8SFb4tC4PwC1rX50',
+                      'id': '7JcKXB8SFb4tC4PwC1rX50', 'is_local': False,
+                      'name': 'We Are Of Nature (Interlude)',
+                      'preview_url': 'https://p.scdn.co/mp3-preview/5b4f0a680ae6cf07ec883ffeb30a1f01bcd9ac48?cid=9495731cd83a4bb4903717603e4f6275',
+                      'track_number': 9, 'type': 'track',
+                      'uri': 'spotify:track:7JcKXB8SFb4tC4PwC1rX50'
+                  }, {
+                      'artists': [{
+                                      'external_urls': {
+                                          'spotify': 'https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa'
+                                      },
+                                      'href': 'https://api.spotify.com/v1/artists/3xjNFu3aAWJie7LQzDoYNa',
+                                      'id': '3xjNFu3aAWJie7LQzDoYNa', 'name': 'Dizraeli',
+                                      'type': 'artist',
+                                      'uri': 'spotify:artist:3xjNFu3aAWJie7LQzDoYNa'
+                                  }],
+                      'available_markets': ['AR', 'AU', 'AT', 'BE', 'BO', 'BR', 'BG', 'CA', 'CL',
+                                            'CO', 'CR', 'CY', 'CZ', 'DK', 'DO', 'DE', 'EC', 'EE',
+                                            'SV', 'FI', 'FR', 'GR', 'GT', 'HN', 'HK', 'HU', 'IS',
+                                            'IE', 'IT', 'LV', 'LT', 'LU', 'MY', 'MT', 'MX', 'NL',
+                                            'NZ', 'NI', 'NO', 'PA', 'PY', 'PE', 'PH', 'PL', 'PT',
+                                            'SG', 'SK', 'ES', 'SE', 'CH', 'TW', 'TR', 'UY', 'US',
+                                            'GB', 'AD', 'LI', 'MC', 'ID', 'JP', 'TH', 'VN', 'RO',
+                                            'IL', 'ZA', 'SA', 'AE', 'BH', 'QA', 'OM', 'KW', 'EG',
+                                            'MA', 'DZ', 'TN', 'LB', 'JO', 'PS', 'IN', 'BY', 'KZ',
+                                            'MD', 'UA', 'AL', 'BA', 'HR', 'ME', 'MK', 'RS', 'SI',
+                                            'KR', 'BD', 'PK', 'LK', 'GH', 'KE', 'NG', 'TZ', 'UG',
+                                            'AG', 'AM', 'BS', 'BB', 'BZ', 'BT', 'BW', 'BF', 'CV',
+                                            'CW', 'DM', 'FJ', 'GM', 'GE', 'GD', 'GW', 'GY', 'HT',
+                                            'JM', 'KI', 'LS', 'LR', 'MW', 'MV', 'ML', 'MH', 'FM',
+                                            'NA', 'NR', 'NE', 'PW', 'PG', 'WS', 'SM', 'ST', 'SN',
+                                            'SC', 'SL', 'SB', 'KN', 'LC', 'VC', 'SR', 'TL', 'TO',
+                                            'TT', 'TV', 'VU', 'AZ', 'BN', 'BI', 'KH', 'CM', 'TD',
+                                            'KM', 'GQ', 'SZ', 'GA', 'GN', 'KG', 'LA', 'MO', 'MR',
+                                            'MN', 'NP', 'RW', 'TG', 'UZ', 'ZW', 'BJ', 'MG', 'MU',
+                                            'MZ', 'AO', 'CI', 'DJ', 'ZM', 'CD', 'CG', 'IQ', 'LY',
+                                            'TJ', 'VE', 'ET', 'XK'], 'disc_number': 1,
+                      'duration_ms': 158933, 'explicit': False, 'external_urls': {
+                'spotify': 'https://open.spotify.com/track/773jd7HsjPxAoy5EATFpuC'
+            }, 'href': 'https://api.spotify.com/v1/tracks/773jd7HsjPxAoy5EATFpuC',
+                      'id': '773jd7HsjPxAoy5EATFpuC', 'is_local': False,
+                      'name': 'Show Some Love (Live)',
+                      'preview_url': 'https://p.scdn.co/mp3-preview/5a892ea870b82a9b6b3c2a9d402b05e152be4c1a?cid=9495731cd83a4bb4903717603e4f6275',
+                      'track_number': 10, 'type': 'track',
+                      'uri': 'spotify:track:773jd7HsjPxAoy5EATFpuC'
+                  }, {
+                      'artists': [{
+                                      'external_urls': {
+                                          'spotify': 'https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa'
+                                      },
+                                      'href': 'https://api.spotify.com/v1/artists/3xjNFu3aAWJie7LQzDoYNa',
+                                      'id': '3xjNFu3aAWJie7LQzDoYNa', 'name': 'Dizraeli',
+                                      'type': 'artist',
+                                      'uri': 'spotify:artist:3xjNFu3aAWJie7LQzDoYNa'
+                                  }],
+                      'available_markets': ['AR', 'AU', 'AT', 'BE', 'BO', 'BR', 'BG', 'CA', 'CL',
+                                            'CO', 'CR', 'CY', 'CZ', 'DK', 'DO', 'DE', 'EC', 'EE',
+                                            'SV', 'FI', 'FR', 'GR', 'GT', 'HN', 'HK', 'HU', 'IS',
+                                            'IE', 'IT', 'LV', 'LT', 'LU', 'MY', 'MT', 'MX', 'NL',
+                                            'NZ', 'NI', 'NO', 'PA', 'PY', 'PE', 'PH', 'PL', 'PT',
+                                            'SG', 'SK', 'ES', 'SE', 'CH', 'TW', 'TR', 'UY', 'US',
+                                            'GB', 'AD', 'LI', 'MC', 'ID', 'JP', 'TH', 'VN', 'RO',
+                                            'IL', 'ZA', 'SA', 'AE', 'BH', 'QA', 'OM', 'KW', 'EG',
+                                            'MA', 'DZ', 'TN', 'LB', 'JO', 'PS', 'IN', 'BY', 'KZ',
+                                            'MD', 'UA', 'AL', 'BA', 'HR', 'ME', 'MK', 'RS', 'SI',
+                                            'KR', 'BD', 'PK', 'LK', 'GH', 'KE', 'NG', 'TZ', 'UG',
+                                            'AG', 'AM', 'BS', 'BB', 'BZ', 'BT', 'BW', 'BF', 'CV',
+                                            'CW', 'DM', 'FJ', 'GM', 'GE', 'GD', 'GW', 'GY', 'HT',
+                                            'JM', 'KI', 'LS', 'LR', 'MW', 'MV', 'ML', 'MH', 'FM',
+                                            'NA', 'NR', 'NE', 'PW', 'PG', 'WS', 'SM', 'ST', 'SN',
+                                            'SC', 'SL', 'SB', 'KN', 'LC', 'VC', 'SR', 'TL', 'TO',
+                                            'TT', 'TV', 'VU', 'AZ', 'BN', 'BI', 'KH', 'CM', 'TD',
+                                            'KM', 'GQ', 'SZ', 'GA', 'GN', 'KG', 'LA', 'MO', 'MR',
+                                            'MN', 'NP', 'RW', 'TG', 'UZ', 'ZW', 'BJ', 'MG', 'MU',
+                                            'MZ', 'AO', 'CI', 'DJ', 'ZM', 'CD', 'CG', 'IQ', 'LY',
+                                            'TJ', 'VE', 'ET', 'XK'], 'disc_number': 1,
+                      'duration_ms': 413253, 'explicit': True, 'external_urls': {
+                'spotify': 'https://open.spotify.com/track/0bXeu5HPEcFTzUNqDpcuyj'
+            }, 'href': 'https://api.spotify.com/v1/tracks/0bXeu5HPEcFTzUNqDpcuyj',
+                      'id': '0bXeu5HPEcFTzUNqDpcuyj', 'is_local': False,
+                      'name': 'I Freak Out (Live)',
+                      'preview_url': 'https://p.scdn.co/mp3-preview/e5da7ec0df0d90f8f23121b3738b1ce3a7e090fc?cid=9495731cd83a4bb4903717603e4f6275',
+                      'track_number': 11, 'type': 'track',
+                      'uri': 'spotify:track:0bXeu5HPEcFTzUNqDpcuyj'
+                  }, {
+                      'artists': [{
+                                      'external_urls': {
+                                          'spotify': 'https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa'
+                                      },
+                                      'href': 'https://api.spotify.com/v1/artists/3xjNFu3aAWJie7LQzDoYNa',
+                                      'id': '3xjNFu3aAWJie7LQzDoYNa', 'name': 'Dizraeli',
+                                      'type': 'artist',
+                                      'uri': 'spotify:artist:3xjNFu3aAWJie7LQzDoYNa'
+                                  }],
+                      'available_markets': ['AR', 'AU', 'AT', 'BE', 'BO', 'BR', 'BG', 'CA', 'CL',
+                                            'CO', 'CR', 'CY', 'CZ', 'DK', 'DO', 'DE', 'EC', 'EE',
+                                            'SV', 'FI', 'FR', 'GR', 'GT', 'HN', 'HK', 'HU', 'IS',
+                                            'IE', 'IT', 'LV', 'LT', 'LU', 'MY', 'MT', 'MX', 'NL',
+                                            'NZ', 'NI', 'NO', 'PA', 'PY', 'PE', 'PH', 'PL', 'PT',
+                                            'SG', 'SK', 'ES', 'SE', 'CH', 'TW', 'TR', 'UY', 'US',
+                                            'GB', 'AD', 'LI', 'MC', 'ID', 'JP', 'TH', 'VN', 'RO',
+                                            'IL', 'ZA', 'SA', 'AE', 'BH', 'QA', 'OM', 'KW', 'EG',
+                                            'MA', 'DZ', 'TN', 'LB', 'JO', 'PS', 'IN', 'BY', 'KZ',
+                                            'MD', 'UA', 'AL', 'BA', 'HR', 'ME', 'MK', 'RS', 'SI',
+                                            'KR', 'BD', 'PK', 'LK', 'GH', 'KE', 'NG', 'TZ', 'UG',
+                                            'AG', 'AM', 'BS', 'BB', 'BZ', 'BT', 'BW', 'BF', 'CV',
+                                            'CW', 'DM', 'FJ', 'GM', 'GE', 'GD', 'GW', 'GY', 'HT',
+                                            'JM', 'KI', 'LS', 'LR', 'MW', 'MV', 'ML', 'MH', 'FM',
+                                            'NA', 'NR', 'NE', 'PW', 'PG', 'WS', 'SM', 'ST', 'SN',
+                                            'SC', 'SL', 'SB', 'KN', 'LC', 'VC', 'SR', 'TL', 'TO',
+                                            'TT', 'TV', 'VU', 'AZ', 'BN', 'BI', 'KH', 'CM', 'TD',
+                                            'KM', 'GQ', 'SZ', 'GA', 'GN', 'KG', 'LA', 'MO', 'MR',
+                                            'MN', 'NP', 'RW', 'TG', 'UZ', 'ZW', 'BJ', 'MG', 'MU',
+                                            'MZ', 'AO', 'CI', 'DJ', 'ZM', 'CD', 'CG', 'IQ', 'LY',
+                                            'TJ', 'VE', 'ET', 'XK'], 'disc_number': 1,
+                      'duration_ms': 528333, 'explicit': True, 'external_urls': {
+                'spotify': 'https://open.spotify.com/track/7i1kRSNJDnIG3cDOKbhcL2'
+            }, 'href': 'https://api.spotify.com/v1/tracks/7i1kRSNJDnIG3cDOKbhcL2',
+                      'id': '7i1kRSNJDnIG3cDOKbhcL2', 'is_local': False, 'name': 'Reach Out (Live)',
+                      'preview_url': 'https://p.scdn.co/mp3-preview/5afe24fd1f3ec305383f4e7f8cbbb7cc031219c5?cid=9495731cd83a4bb4903717603e4f6275',
+                      'track_number': 12, 'type': 'track',
+                      'uri': 'spotify:track:7i1kRSNJDnIG3cDOKbhcL2'
+                  }], 'limit': 50, 'next': None, 'offset': 0, 'previous': None, 'total': 12
+    }, 'type': 'album', 'uri': 'spotify:album:31cMNkGXPCaYDdwrz4EnHn'
+}
